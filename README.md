@@ -1,0 +1,2 @@
+# ICPKS_DEFAULT_LICENCE
+同人社团重霄摘星文章的默认许可证
